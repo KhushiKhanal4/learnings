@@ -1,0 +1,37 @@
+.card 
+{
+    border-radius: 13px;
+    background-color: rgb(238, 238, 238);
+    width: 1000px;
+    display: flex;
+    gap: 22px;
+    padding: 7px;
+    height: 100px;
+}
+
+.card:hover 
+{
+    background-color: rgb(175, 174, 174);
+}
+
+.card img 
+{
+    width: 177px;
+    border-radius: 13px;
+}
+
+.text h1 
+{
+    margin: 0px;
+}
+
+.timestamp {
+    border-radius: 3px;
+    background-color: rgba(0, 0, 0, 0.562);
+    width: 37px;
+    padding: 2px;
+    position: relative;
+    left: 130px;
+    bottom: 29px;
+    color: white;
+}
