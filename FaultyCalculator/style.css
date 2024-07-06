@@ -4,13 +4,13 @@ body {
 }
 
 .box {
-    margin: 8vw auto;
-    width: 34vw;
+    margin: 8vw 33vw;
+    width: 392px;
 }
 
 .place {
-    width: 95%;
-    height: 10vw;
+    max-width: 95%;
+    min-height: 10vw;
     cursor: text;
     background-color: rgb(107, 106, 106);
     border: none;
@@ -23,7 +23,7 @@ body {
 }
 
 .section {
-    max-width: 34vw;
+    max-width: 28vw;
     margin: -7vw auto 0;
     margin-left: 33vw;
 }
