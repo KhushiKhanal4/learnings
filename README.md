@@ -15,14 +15,7 @@ This repository serves as my frontend development learning journey. It includes 
   - Simple webpage structure using HTML.
   - Basic styling with CSS.
 
-### 2. Responsive Web Design
-
-- **Description:** Projects focused on creating responsive layouts using CSS Grid and Flexbox.
-- **Projects:**
-  - `responsive-layout1`: A webpage layout using CSS Grid.
-  - `responsive-layout2`: A webpage layout using Flexbox.
-
-### 3. Vanilla JavaScript Projects
+### 2. Vanilla JavaScript Projects
 
 #### Calculator
 
@@ -39,7 +32,7 @@ This repository serves as my frontend development learning journey. It includes 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/frontend-learning-projects.git
+    git clone https://github.com/KhushiKhanal4/learnings.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -49,7 +42,7 @@ This repository serves as my frontend development learning journey. It includes 
 
 ## Contact
 
-Feel free to reach out to me for any questions or collaborations:
+Feel free to reach out to me for any questions:
 
 - **Email:**khanalkhushi123@gmail.com
 - **GitHub:** [KhushiKhanal4](https://github.com/KhushiKhanal4)
