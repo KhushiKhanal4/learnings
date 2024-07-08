@@ -27,6 +27,27 @@ This repository serves as my frontend development learning journey. It includes 
   - `calculator/index.html`
   - `calculator/styles.css`
   - `calculator/script.js`
+  - 
+#### Random Color Generator
+
+- **Description:** A web application that generates random colors on each refresh.
+- **Features:**
+  - Displays the generated color code.
+  - Background and box color changes to random colors.
+- **Files:**
+  - `randomColor.html`
+  - `randomColor.js`
+
+#### Dynamic YouTube Playlist
+
+- **Description:** A dynamic playlist application that gives a YouTube playlist layout.
+- **Features:**
+  - Shows layout of Youtube playlist.
+  - Displays video titles and thumbnails.
+- **Files:**
+  - `YoutubePlaylistdemo.html`
+  - `YoutubePlaylistdemo.css`
+  - `YoutubePlaylistdemo.js`
 
 ## How to Use
 
@@ -44,7 +65,7 @@ This repository serves as my frontend development learning journey. It includes 
 
 Feel free to reach out to me for any questions:
 
-- **Email:**khanalkhushi123@gmail.com
+- **Email:** khanalkhushi123@gmail.com
 - **GitHub:** [KhushiKhanal4](https://github.com/KhushiKhanal4)
 
 ---
