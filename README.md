@@ -27,7 +27,7 @@ This repository serves as my frontend development learning journey. It includes 
   - `calculator/index.html`
   - `calculator/styles.css`
   - `calculator/script.js`
-  - 
+    
 #### Random Color Generator
 
 - **Description:** A web application that generates random colors on each refresh.
